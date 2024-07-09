@@ -1,2 +1,2 @@
 # restfull-api
- RESTful API for user registration with nodejs and mongodb
+ restfull api for user registration with nodejs and mongodb
